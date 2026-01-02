@@ -11,7 +11,7 @@ public class task1 {
         studentMarks = input.nextInt();
 
         if(studentMarks >= 50) {
-            System.out.println("you passed in the exam");
+            System.out.println("you passed in the exam!");
         } else {
             System.out.println("you fail in the exam");
         }
@@ -20,3 +20,4 @@ public class task1 {
 
     }
 }
+
