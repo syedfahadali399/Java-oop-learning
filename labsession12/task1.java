@@ -1,5 +1,3 @@
-package labsession12;
-
 import java.util.Scanner;
 import java.io.*;
 
